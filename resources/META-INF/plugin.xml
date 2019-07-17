@@ -13,7 +13,7 @@
 
   <application-components>
     <component>
-      <implementation-class></implementation-class>
+    		<implementation-class>com.github.bigoz005.trexprogressbar.TrexApp</implementation-class>
     </component>
   </application-components>
 </idea-plugin>
