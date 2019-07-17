@@ -1,0 +1,19 @@
+<idea-plugin>
+  <id>com.github.bigoz005.trex-progress-bar</id>
+  <name>Trex Progress Bar</name>
+  <version>1.0.0</version>
+  <vendor email="michal.nawrot.mn.mn@gmail.com" url="https://github.com/bigoz005/trex-progress-bar">Michał Nawrot</vendor>
+  <description>Chrome trex progress bar for intellij based IDEs</description>
+
+  <idea-version since-build="173.0"/>
+
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij" />
+
+  <application-components>
+    <component>
+      <implementation-class></implementation-class>
+    </component>
+  </application-components>
+</idea-plugin>
